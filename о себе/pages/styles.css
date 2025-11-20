@@ -1,0 +1,18 @@
+p{
+	color: yellow;
+	font-size:40px ;
+}
+.menu {display: flex;align-items: center;justify-content: space-between;padding: 1rem;
+	background-color: #313947;color: white;box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 1.0);
+	background-bottom: 4px soled #63b3ed;
+}
+.menu-link:hover {background-color: #4a55;
+}
+.menu-link {color: white;
+font-weight: 600;
+text-decoration: none;
+padding:0.5rem 1rem;
+border-radius: 0.5rem;
+}
+#megazoholovok :{font-size: 190px;
+}
